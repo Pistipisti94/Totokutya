@@ -1,0 +1,1 @@
+<footer>Az oldal jogi dolgainak a helye...</footer>
