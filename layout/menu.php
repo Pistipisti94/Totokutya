@@ -15,16 +15,18 @@
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" href="#szolgaltatasok" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                         Szolgáltatások
-                    </a>
-                    <ul class="dropdown-menu">
-                        <li><a class="dropdown-item" href="#">#1</a></li>
-                        <li><a class="dropdown-item" href="#">#2</a></li>
-                        <li><hr class="dropdown-divider"></li>
-                        <li><a class="dropdown-item" href="#">#3</a></li>
-                    </ul>
+                    </a>                   
                 </li>
                 <li class="nav-item">
                     <a class="nav-link text-info" href="#elerhetoseg">Elérhetőség</a>
+                </li>
+                <li style="margin-left: 50px" class="nav-item">
+                    <h6>E-mail:</h6>
+                    <p class="nav-link"> franciska19771202@gmail.com</p>
+                </li>
+                <li style="margin-left: 50px" class="nav-item">
+                    <h6>Telefonszám:</h6>
+                    <p class="nav-link"> (30) 443 5503</p>
                 </li>
             </ul>
                         <div class="icon-bar">

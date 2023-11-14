@@ -7,24 +7,14 @@ nav .navbar{
 .card-body{
     background-color: #B0A695;
 }
-.nav-item:hover, li:hover{
-        background-color: #776B5D;
-        box-shadow: 5px 5px 0px 0px;
-}
 footer{
     position: absolute;
 }
-h2 a{
-    text-decoration: none;
-    color: black;
+.nav-item{
+    margin-bottom: -20px;
 }
-h2 a:hover{
-    text-decoration: none;
-    color: gray;
-}
-h2 a:active{
-    text-decoration: none;
-    color: blue;
+nav .navbar{
+    position: fixed;
 }
 .facebook {
   background: none;
@@ -111,6 +101,7 @@ h2 a:active{
     .custom-table tbody tr.active th:before, .custom-table tbody tr.active th:after, .custom-table tbody tr.active td:before, .custom-table tbody tr.active td:after {
       opacity: 1;
       visibility: visible; }
+    
 /*
 háttérszínek:
 #F3EEEA
