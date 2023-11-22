@@ -13,7 +13,7 @@
                     <a class="nav-link" href="#munkak">Munkáim</a>
                 </li>
                 <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle" href="#szolgaltatasok" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                    <a class="nav-link" href="#szolgaltatasok" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                         Szolgáltatások
                     </a>                   
                 </li>
@@ -27,6 +27,9 @@
                 <li style="margin-left: 50px" class="nav-item">
                     <h6>Telefonszám:</h6>
                     <p class="nav-link"> (30) 443 5503</p>
+                </li>
+                <li style="margin-left: 50px" class="nav-item">
+                    <h6>Időpont foglalás telefonon</h6>                    
                 </li>
             </ul>
                         <div class="icon-bar">

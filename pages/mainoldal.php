@@ -1,6 +1,6 @@
 <div class="container">
     <div class="row">
-        <div class="col-5">
+        <div class="">
             <div class="container">
                 <h1 id="bemutatkozas">Bemutatkozás</h1> 
 
@@ -14,10 +14,8 @@
             </div>    
         </div>
         
-        <div class="col-5"> 
-            <div class="embed-responsive embed-responsive-16by9">
-                <h1 id="bemutatkozas">Tiktok</h1> 
-                <img id="gif" style="border-radius:15px 15px " height="450px" width="288px" src="./imgs/tototiktok.gif" alt="Computer man">
+        <div class=""> 
+            
             </div>
 
         </div>    

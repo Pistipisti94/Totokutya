@@ -38,9 +38,6 @@ nav .navbar{
 .icon-bar img{
     height: 32px;
 }
-#gif{
-    max-height: 500px;
-}
 .custom-table {
   min-width: 900px; }
   .custom-table thead tr, .custom-table thead th {
